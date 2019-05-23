@@ -1,0 +1,24 @@
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.deps.json
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.dll
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.dll
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.pdb
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csprojAssemblyReference.cache
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CoreCompileInputs.cache
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfoInputs.cache
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfo.cs
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CopyComplete
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.dll
+c:\Users\lovejit.singh\documents\visual studio 2017\projects\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.pdb
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.deps.json
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.dll
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.pdb
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csprojAssemblyReference.cache
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfo.cs
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CopyComplete
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\Lovejit Singh\Downloads\Library\Library\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.pdb
